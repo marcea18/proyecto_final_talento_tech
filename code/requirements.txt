@@ -1,0 +1,12 @@
+pip
+setuptools
+streamlit==1.40.2
+numpy==2.1.2
+pandas==2.2.3
+scikit-learn==1.5.2
+ydata-profiling==4.12.0
+matplotlib==3.9.2
+seaborn==0.13.2
+catboost==1.2.7
+xgboost==1.5.0
+shap==0.46.0

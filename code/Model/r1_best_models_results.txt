@@ -1,0 +1,22 @@
+Best Model by RMSE:
+Best RMSE on validation set: 1.7337
+Best Parameters (RMSE):
+  learning_rate: 0.1
+  max_depth: 4
+  n_estimators: 200
+  subsample: 0.9
+
+Best Model by MAE:
+Best MAE on validation set: 1.4073
+Best Parameters (MAE):
+  depth: 5
+  iterations: 100
+  learning_rate: 0.2
+
+Best Model by R²:
+Best R² on validation set: 0.2363
+Best Parameters (R²):
+  learning_rate: 0.1
+  max_depth: 4
+  n_estimators: 100
+  subsample: 0.9

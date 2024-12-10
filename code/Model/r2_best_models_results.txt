@@ -1,0 +1,23 @@
+Best Model by RMSE:
+Best RMSE on validation set: 1.7388
+Best Parameters (RMSE):
+  max_depth: None
+  min_samples_leaf: 1
+  min_samples_split: 2
+  n_estimators: 500
+
+Best Model by MAE:
+Best MAE on validation set: 1.3759
+Best Parameters (MAE):
+  max_depth: 20
+  min_samples_leaf: 1
+  min_samples_split: 2
+  n_estimators: 500
+
+Best Model by R²:
+Best R² on validation set: 0.2195
+Best Parameters (R²):
+  max_depth: 20
+  min_samples_leaf: 1
+  min_samples_split: 5
+  n_estimators: 500
